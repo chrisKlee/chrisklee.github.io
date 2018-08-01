@@ -7,40 +7,34 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lee KwangIl (Chris Lee)
+    tagline: SQA, SET, PM
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: bitjjangi@gmail.com
+    phone: 010 2749 5620
+    website: blog.papajun.xyz #do not add http://
+    linkedin: chris-lee-b6a00520
+    github: chrisklee
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: chriskilee
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Native
+        level: email works is possible
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
     interests:
-      - item: Climbing
+      - item: Camping
         link:
 
-      - item: Snowboarding
+      - item: Travel
         link:
 
-      - item: Cooking
+      - item: SET
         link:
 
 career-profile:
@@ -55,28 +49,20 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Korea national open University
+      time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The thesis for BS was "UX evaluation against Mobile browser".
 
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: ASc in Mechatronics
+      university: Inha Technical College 
+      time: 1996 - 2001
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Industrial Robot control technology
 
           - Bullet point
           - Bullet point 
