@@ -72,7 +72,7 @@ experiences:
     - role: SQA Manager, Service Operator, Technical Support
       time: Nov. 2015 - Present
       company: Daliworks Co., Ltd, seoul
-      details:
+      details: |
         In Daliworks, the startup of the IoT platform, I working on several roles.
         The role as the operator for Thing+, IoT platform.
         The role as Quality control for IoT platform, IoT portal, IoT embedded.
@@ -111,43 +111,40 @@ experiences:
       time: jul.2006 - Nov.2015
       company: Obigo Co., Ltd, seoul, pankyo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I have been in Obigo for 10 years and there have been many changes in the product.
+        The obigo product was a mobile solution when I joined and I was in charge of the messaging part.
+        Here are the product lines I was responsible for
+        Messaging - WAP browser - Full browser - Web platform (mobile - TV - Automotive)
+        I had work as test leader in QA organization and became team manager in 2012.
+        When obigo develope a web platform with a group called WAC, I became a WAC contributo.
+        I supported personally to make the W3C widget specification and I became a contributor of W3C
 
-          - Bullet point
-          - Bullet point
-
-
-- Specification Editor
-  - Automotive API writer (Hyundai motors) [Automotive-specification]
-  - Activity for widget standard
-    - Participated in WAC test fest (3 times) � `contribute WAC` test asset.
-    - Tests owner for WAC tests � messaging, task, calendar, contact.
-    - `W3C widget contributor` for implementation report � [Digital-signature](), [Packaged-Web-Apps](), [Interface](), [View-mode](), [WARP]()
-- Test case design
-  - Functional test case base on Browser and WRT reguirements base on specifications
-  - Non-functional test case base on QA experience
-  - Automotive test case by javascript [qunite] [TESTHARNESS]
-Design performance test tool & suite(development)
-Set up performance test Methodology
-Test case design for Bondi, JIL full compliance
-Contributor of WAC 2.0 deviceapi tests (The owner of Messaging, contact, task, calendar)
-Test managing
-Enhanced performance of Mobile Browser.
-Benchmark test leader in QCC of Obigo
-Bondi project- product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5
-JIL - product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)
-WAC - product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)
-I was promoted to team manager from Test leader at july 2012.
-Test execute
-Messaging Test (about 1year - 2006~2007)
-Mobile Browser R&D team (about 1year - 2007~2008)
-WRT - BONDI, JIL, W3C WAC, automotive (since 2009~ )
-Automotive IVI web app - HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )
-Performance test - measurement for CPU Usage, memory Usage (since 2012~ )
+          - Specification Editor
+            - Automotive API writer (Hyundai motors) [Automotive-specification]
+            - Activity for widget standard
+              - Participated in WAC test fest (3 times) � `contribute WAC` test asset.
+              - Tests owner for WAC tests � messaging, task, calendar, contact.
+              - `W3C widget contributor` for implementation report � [Digital-signature](), [Packaged-Web-Apps](), [Interface](), [View-mode](), [WARP]()
+          - Test case design
+            - Functional test case base on Browser and WRT reguirements base on specifications
+            - Non-functional test case base on QA experience
+            - Automotive test case by javascript [qunite] [TESTHARNESS]
+          - Design performance test tool & suite(development)
+            - Set up performance test Methodology
+            - Test case design for Bondi, JIL full compliance
+            - Contributor of WAC 2.0 deviceapi tests (The owner of Messaging, contact, task, calendar)
+          - Test managing
+            - Enhanced performance of Mobile Browser.
+            - Benchmark test leader in QCC of Obigo
+            - Bondi project - product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5
+            - JIL - product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)
+            - WAC - product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)
+          - Test execute
+            - Messaging Test (about 1year - 2006~2007)
+            - Mobile Browser R&D team (about 1year - 2007~2008)
+            - WRT - BONDI, JIL, W3C WAC, automotive (since 2009~ )
+            - Automotive IVI web app - HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )
+            - Performance test - measurement for CPU Usage, memory Usage (since 2012~ )
 
     - role: UI Developer
       time: 2012 - 2014
