@@ -25,13 +25,13 @@ sidebar:
         level: email works is possible
 
     interests:
+      - item: SET (Software Engineer in Test)
+        link:
+
+      - item: Atomated Testing
+        link:
+
       - item: Camping
-        link:
-
-      - item: Travel
-        link:
-
-      - item: SET
         link:
 
 career-profile:
