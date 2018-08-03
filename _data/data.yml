@@ -81,9 +81,9 @@ experiences:
 
         - QC / SET
           - Test suites using Automated Test Framework
-            - Chakram : REST API TEST
-            - Mocha : REST API TEST
-            - Nightwatch : UI TEST
+            - Chakram - REST API TEST
+            - Mocha - REST API TEST
+            - Nightwatch - UI TEST
           - Made scripts for test
             - Monitoring scripts for REST API response Time
             - Morintoring scrips for Memory of servers
@@ -124,9 +124,9 @@ experiences:
 - Specification Editor
   - Automotive API writer (Hyundai motors) [Automotive-specification]
   - Activity for widget standard
-    - Participated in WAC test fest (3 times) – `contribute WAC` test asset.
-    - Tests owner for WAC tests – messaging, task, calendar, contact.
-    - `W3C widget contributor` for implementation report – [Digital-signature](), [Packaged-Web-Apps](), [Interface](), [View-mode](), [WARP]()
+    - Participated in WAC test fest (3 times) ï¿½ `contribute WAC` test asset.
+    - Tests owner for WAC tests ï¿½ messaging, task, calendar, contact.
+    - `W3C widget contributor` for implementation report ï¿½ [Digital-signature](), [Packaged-Web-Apps](), [Interface](), [View-mode](), [WARP]()
 - Test case design
   - Functional test case base on Browser and WRT reguirements base on specifications
   - Non-functional test case base on QA experience
@@ -138,16 +138,17 @@ Contributor of WAC 2.0 deviceapi tests (The owner of Messaging, contact, task, c
 Test managing
 Enhanced performance of Mobile Browser.
 Benchmark test leader in QCC of Obigo
-Bondi project: product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5
-JIL : product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)
-WAC : product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)
+Bondi project- product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5
+JIL - product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)
+WAC - product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)
 I was promoted to team manager from Test leader at july 2012.
 Test execute
-Messaging Test (about 1year : 2006~2007)
-Mobile Browser R&D team (about 1year : 2007~2008)
-WRT : BONDI, JIL, W3C WAC, automotive (since 2009~ )
-Automotive IVI web app : HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )
+Messaging Test (about 1year - 2006~2007)
+Mobile Browser R&D team (about 1year - 2007~2008)
+WRT - BONDI, JIL, W3C WAC, automotive (since 2009~ )
+Automotive IVI web app - HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )
 Performance test - measurement for CPU Usage, memory Usage (since 2012~ )
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
