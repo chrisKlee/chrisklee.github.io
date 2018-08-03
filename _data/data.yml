@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output. 
-#
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -19,7 +15,7 @@ sidebar:
     github: chrisklee
     gitlab:
     bitbucket: chriskilee
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -38,15 +34,20 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: QA Manager
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      My name is chris lee who is QA manager.
 
-      Second paragraph if required.
+      I have worked as SQA : Browser, web app, web rumtime, automotive platform.
+
+      Also, I had participated in standards activity as the following
+      * contributor of W3C widget specification,
+      * editor of HKMC automotive specification,
+      * contributor of WAC/bondi test case.
+
+      I have interesting in the SQA, automated test tool, standards activity.
+
+      I have a pride in my job and I will be performed perfectly the work assigned to me.
 
 education:
     - degree: BSc in Computer Science
@@ -56,38 +57,59 @@ education:
         The thesis for BS was "UX evaluation against Mobile browser".
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: ASc in Mechatronics
-      university: Inha Technical College 
+      university: Inha Technical College
       time: 1996 - 2001
       details: |
         Industrial Robot control technology
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: SQA Manager, Service Operator, Technical Support
+      time: Nov. 2015 - Present
+      company: Daliworks Co., Ltd, seoul
+      details:
+        In Daliworks, the startup of the IoT platform, I working on several roles.
+        The role as the operator for Thing+, IoT platform.
+        The role as Quality control for IoT platform, IoT portal, IoT embedded.
+        The role as Technical Support are responded to inquiries about interlocking development of partner companies and customers.
+        And I taken charge of the training event like the external training and hackathon event
 
-          - Bullet point
-          - Bullet point 
+        - QC / SET
+          - Test suites using Automated Test Framework
+            - Chakram : REST API TEST
+            - Mocha : REST API TEST
+            - Nightwatch : UI TEST
+          - Made scripts for test
+            - Monitoring scripts for REST API response Time
+            - Morintoring scrips for Memory of servers
+            - Virtual sensor
+            - Stress Test
+          - Test tool
+            - mqtt-malaria
+            - Jmeter
+          - Decision to release schedule
+        - Service Operatiion Manager
+          - Made scripts for service operation
+            - management for gateways, users
+            - Rule, gateway, thing generator
+            - management service, user, gate
+          - Create, stop, resume, delete for a Services
+          - billing mangement
+          - Notify thingplus news to customer/partners.
+          - Project manager for goverment project.
+        - Technical Support
+          - Responded to inquiries about interlocking development of partner companies.
+          - Treat to customer issues.
+          - [manage developer guide](http://support.thingplus.net)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: QCC Team manager
+      time: jul.2006 - Nov.2015
+      company: Obigo Co., Ltd, seoul, pankyo
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,6 +120,34 @@ experiences:
           - Bullet point
           - Bullet point
 
+
+- Specification Editor
+  - Automotive API writer (Hyundai motors) [Automotive-specification]
+  - Activity for widget standard
+    - Participated in WAC test fest (3 times) – `contribute WAC` test asset.
+    - Tests owner for WAC tests – messaging, task, calendar, contact.
+    - `W3C widget contributor` for implementation report – [Digital-signature](), [Packaged-Web-Apps](), [Interface](), [View-mode](), [WARP]()
+- Test case design
+  - Functional test case base on Browser and WRT reguirements base on specifications
+  - Non-functional test case base on QA experience
+  - Automotive test case by javascript [qunite] [TESTHARNESS]
+Design performance test tool & suite(development)
+Set up performance test Methodology
+Test case design for Bondi, JIL full compliance
+Contributor of WAC 2.0 deviceapi tests (The owner of Messaging, contact, task, calendar)
+Test managing
+Enhanced performance of Mobile Browser.
+Benchmark test leader in QCC of Obigo
+Bondi project: product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5
+JIL : product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)
+WAC : product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)
+I was promoted to team manager from Test leader at july 2012.
+Test execute
+Messaging Test (about 1year : 2006~2007)
+Mobile Browser R&D team (about 1year : 2007~2008)
+WRT : BONDI, JIL, W3C WAC, automotive (since 2009~ )
+Automotive IVI web app : HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )
+Performance test - measurement for CPU Usage, memory Usage (since 2012~ )
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
