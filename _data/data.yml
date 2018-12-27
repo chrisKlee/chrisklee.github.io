@@ -39,7 +39,7 @@ career-profile:
     summary: |
       My name is chris lee who is QA manager.
 
-      I have worked as SQA : Browser, web app, web rumtime, automotive platform.
+      I have worked as SQA : Browser, web app, web rumtime, automotive platform, IoT platform.
 
       Also, I had participated in standards activity as the following
       * contributor of W3C widget specification,
@@ -66,8 +66,13 @@ education:
 
 
 experiences:
+    - role: SQA Manager
+      time: Jan. 2019 - Present
+      company: Barogo Co., Ltd, seoul
+      details: |
+
     - role: SQA Manager, Service Operator, Technical Support
-      time: Nov. 2015 - Present
+      time: Nov. 2015 - Dec.2018
       company: Daliworks Co., Ltd, seoul
       details: |
         In Daliworks, the startup of the IoT platform, I working on several roles.
@@ -175,7 +180,7 @@ experiences:
       company: E-systems Co., Ltd. , seoul
       details: |
         Development of web site
-        
+
         - web developer & master
         - Sale of USB flash memory and managing the shopping mall.
         - Developing and managing prestigious shopping malls (robinhood, luxury 24).
