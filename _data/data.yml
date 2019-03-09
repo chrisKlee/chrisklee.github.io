@@ -3,20 +3,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lee KwangIl (Chris Lee)
+    name: Lee Kwangil (Chris Lee)
     tagline: SQA, SET, PM
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bitjjangi@gmail.com
     phone: 010 2749 5620
-    website: blog.papajun.xyz/chris/cv #do not add http://
-    #website2: blog.papajun.xyz #do not add http://
+    w3c: blog.papajun.xyz/chris/cv #do not add http://
+    blog: blog.papajun.xyz #do not add http://
     linkedin: chris-lee-b6a00520
-    github: chrisklee
+    # github: chrisklee
     gitlab:
     bitbucket: chriskilee
     twitter:
+    resume1: chris-lee(ko).pdf
+    resume2: chris-lee(en).pdf
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -66,7 +68,7 @@ education:
 
 
 experiences:
-    - role: SQA Manager
+    - role: QA/QC Associate Director (R&D Planning Team)
       time: Jan. 2019 - Present
       company: Barogo Co., Ltd, seoul
       details: |
