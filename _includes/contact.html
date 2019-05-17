@@ -13,15 +13,15 @@
     </li>
     {% endif %}
 
-    {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    {% if sidebar.w3c %}
+    <li class="w3c"><i class="fab fa-html5"></i>
+      <a href="http://{{ sidebar.w3c }}" target="_blank">W3C style resume</a>
     </li>
     {% endif %}
 
-    {% if sidebar.website2 %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website2 }}" target="_blank">{{ sidebar.website2 }}</a>
+    {% if sidebar.blog %}
+    <li class="blog"><i class="fab fa-blogger"></i>
+      <a href="http://{{ sidebar.blog }}" target="_blank">personal blog</a>
     </li>
     {% endif %}
 
@@ -54,6 +54,19 @@
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
+
+    {% if sidebar.resume1 %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="../assets/pdf/{{ sidebar.resume1 }}" target="_blank">{{ sidebar.resume1 }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.resume2 %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="../assets/pdf/{{ sidebar.resume2 }}" target="_blank">{{ sidebar.resume2 }}</a>
+    </li>
+    {% endif %}
+
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
