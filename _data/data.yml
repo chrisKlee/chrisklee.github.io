@@ -72,6 +72,19 @@ experiences:
       time: Jan. 2019 - Present
       company: Barogo Co., Ltd, seoul
       details: |
+      In Barogo I have a role as QA / QA.
+      As QA, I have estabilish a development/verification process and is in charge of reviewing and arbitrating requirements of other business units. I think we need to Q&A site because resources are wasted as repeated questions and answers in the company. so I was proposing, setup and managing an in-house Q&A site
+      As QC, I  test release tests. And I developing automated tests using chakram and jest.
+
+      - Development/Verification Process Management
+      - Requrire Management
+      - Release Test
+      - Automated Test
+      - System Metric
+      - FAQ/Q&A Site Manager
+      - Project Leading
+        - Mango project
+
 
     - role: SQA Manager, Service Operator, Technical Support
       time: Nov. 2015 - Dec.2018
