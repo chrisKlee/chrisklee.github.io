@@ -1,0 +1,57 @@
+I"P<p>In Daliworks, the startup of the IoT platform, I working on several roles.
+The role as the operator for Thing+, IoT platform.
+The role as Quality control for IoT platform, IoT portal, IoT embedded.
+The role as Technical Support are responded to inquiries about interlocking development of partner companies and customers.
+And I taken charge of the training event like the external training and hackathon event</p>
+
+<ul>
+  <li>QC / SET
+    <ul>
+      <li>Test suites using Automated Test Framework
+        <ul>
+          <li>Chakram - REST API TEST</li>
+          <li>Mocha - REST API TEST</li>
+          <li>Nightwatch - UI TEST</li>
+        </ul>
+      </li>
+      <li>Made scripts for test
+        <ul>
+          <li>Monitoring scripts for REST API response Time</li>
+          <li>Morintoring scrips for Memory of servers</li>
+          <li>Virtual sensor</li>
+          <li>Stress Test</li>
+        </ul>
+      </li>
+      <li>Test tool
+        <ul>
+          <li>mqtt-malaria</li>
+          <li>Jmeter</li>
+        </ul>
+      </li>
+      <li>Decision to release schedule</li>
+    </ul>
+  </li>
+  <li>Service Operatiion Manager
+    <ul>
+      <li>Made scripts for service operation
+        <ul>
+          <li>management for gateways, users</li>
+          <li>Rule, gateway, thing generator</li>
+          <li>management service, user, gate</li>
+        </ul>
+      </li>
+      <li>Create, stop, resume, delete for a Services</li>
+      <li>billing mangement</li>
+      <li>Notify thingplus news to customer/partners.</li>
+      <li>Project manager for goverment project.</li>
+    </ul>
+  </li>
+  <li>Technical Support
+    <ul>
+      <li>Responded to inquiries about interlocking development of partner companies.</li>
+      <li>Treat to customer issues.</li>
+      <li><a href="http://support.thingplus.net">manage developer guide</a></li>
+    </ul>
+  </li>
+</ul>
+:ET

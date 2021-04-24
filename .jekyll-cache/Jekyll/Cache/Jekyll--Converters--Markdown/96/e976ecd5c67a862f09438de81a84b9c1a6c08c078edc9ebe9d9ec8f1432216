@@ -1,0 +1,55 @@
+I"(<p>I have been in Obigo for 10 years and there have been many changes in the product.
+The obigo product was a mobile solution when I joined and I was in charge of the messaging part.
+Here are the product lines I was responsible for
+Messaging - WAP browser - Full browser - Web platform (mobile - TV - Automotive)
+I had work as test leader in QA organization and became team manager in 2012.
+When obigo develope a web platform with a group called WAC, I became a WAC contributo.
+I supported personally to make the W3C widget specification and I became a contributor of W3C</p>
+
+<ul>
+  <li>Specification Editor
+    <ul>
+      <li>Automotive API writer (Hyundai motors) [Automotive-specification]</li>
+      <li>Activity for widget standard
+        <ul>
+          <li>Participated in WAC test fest (3 times) - <code class="language-plaintext highlighter-rouge">contribute WAC</code> test asset.</li>
+          <li>Tests owner for WAC tests - messaging, task, calendar, contact.</li>
+          <li><code class="language-plaintext highlighter-rouge">W3C widget contributor</code> for implementation report - <a href="https://dev.w3.org/2006/waf/widgets-digsig/imp-report/">Digital-signature</a>, <a href="https://dev.w3.org/2006/waf/widgets/imp-report/">Packaged-Web-Apps</a>, <a href="https://dev.w3.org/2006/waf/widgets-api/imp-report/">Interface</a>, <a href="https://dev.w3.org/2006/waf/widgets-vmmf/imp-report/">View-mode</a>, <a href="https://dev.w3.org/2006/waf/widgets-access/imp-report/">WARP</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Test case design
+    <ul>
+      <li>Functional test case base on Browser and WRT reguirements base on specifications</li>
+      <li>Non-functional test case base on QA experience</li>
+      <li>Automotive test case by javascript [qunite] [TESTHARNESS]</li>
+    </ul>
+  </li>
+  <li>Design performance test tool &amp; suite(development)
+    <ul>
+      <li>Set up performance test Methodology</li>
+      <li>Test case design for Bondi, JIL full compliance</li>
+      <li>Contributor of WAC 2.0 deviceapi tests (The owner of Messaging, contact, task, calendar)</li>
+    </ul>
+  </li>
+  <li>Test managing
+    <ul>
+      <li>Enhanced performance of Mobile Browser.</li>
+      <li>Benchmark test leader in QCC of Obigo</li>
+      <li>Bondi project - product QA and commercial project QA of 1.0CR, 1.1 AR, 1.5</li>
+      <li>JIL - product QA of JIL 1.1, JIL1.2 (obtained JIL1.2 compliance certification from JIL Ltd)</li>
+      <li>WAC - product QA of WAC1.0 and WAC2.0 (obtained WAC2.0 compliance certification from WAC Ltd)</li>
+    </ul>
+  </li>
+  <li>Test execute
+    <ul>
+      <li>Messaging Test (about 1year - 2006~2007)</li>
+      <li>Mobile Browser R&amp;D team (about 1year - 2007~2008)</li>
+      <li>WRT - BONDI, JIL, W3C WAC, automotive (since 2009~ )</li>
+      <li>Automotive IVI web app - HKMC APP, F10 AF-APP, KMA APP, Toyota AC, Mahindra W207 AF-APP, HATA Telematics APP, Honda Android AF-APP, RSM Android AF-APP (since 2012~ )</li>
+      <li>Performance test - measurement for CPU Usage, memory Usage (since 2012~ )</li>
+    </ul>
+  </li>
+</ul>
+:ET
