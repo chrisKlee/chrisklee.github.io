@@ -52,3 +52,17 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 ## License
 
 This project is licensed under the [MIT license](LICENSE.txt).
+
+## how to update written by Chris
+* jekyll build후에 git push 해야한다.
+* jekyll install
+  * [install guide](https://jekyllrb.com/docs/installation/)
+* jekyll build
+  ```
+  jekyll build --incremental  
+  ```
+* jekyll debuging
+  ```
+  jekyll serve --watch
+  ```
+  
